@@ -1,4 +1,12 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Yashdeep Singh</h1>
+
+<h3 align="center">
+Second-Year B.Tech CSE Student | Aspiring Full Stack Developer
+</h3>
+
+<p align="center">
+Passionate about building modern web applications, solving Data Structures & Algorithms problems, and continuously improving my development skills.
+</p>
 
 <!--
 **yashdeepsingh51/yashdeepsingh51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
